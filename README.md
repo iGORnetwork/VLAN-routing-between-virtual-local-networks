@@ -19,3 +19,6 @@
 # Настроем базовые параметры для PCB-1
 
 ![](https://github.com/iGORnetwork/VLAN-routing-between-virtual-local-networks/blob/main/image/Screenshot_6.png)
+
+# Создаем сети VLAN и назначаем порты коммутатора
+## Создаем сети VLAN S1
