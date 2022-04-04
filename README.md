@@ -21,4 +21,6 @@
 ![](https://github.com/iGORnetwork/VLAN-routing-between-virtual-local-networks/blob/main/image/Screenshot_6.png)
 
 # Создаем сети VLAN и назначаем порты коммутатора
-## Создаем сети VLAN S1
+## Создаем сети VLAN на каммутаторах 
+### S1
+Создаем и называем необходимые VLAN на коммутаторе из таблицы 
