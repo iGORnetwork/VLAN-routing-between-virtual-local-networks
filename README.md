@@ -33,3 +33,6 @@ b) Настроем интерфейсы управления и шлюз по �
 ![](https://github.com/iGORnetwork/VLAN-routing-between-virtual-local-networks/blob/main/image/Screenshot_9.png)
 
 С) Скроим неиспользуемые порты коммутатора VLAN Parking_Lot
+
+# S2
+
