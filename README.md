@@ -24,7 +24,7 @@
 ## Создаем сети VLAN на каммутаторах 
 ### S1
 a) Создаем и называем необходимые VLAN на коммутаторе из таблицы 
-
+![](https://github.com/iGORnetwork/VLAN-routing-between-virtual-local-networks/blob/main/image/Screenshot_7.png)
 
 b) Настроем интерфейсы управления и шлюз по умолчанию используя информацию об IP-адресе в таблице адресации. 
 
