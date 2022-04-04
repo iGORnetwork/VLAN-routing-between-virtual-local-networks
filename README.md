@@ -26,6 +26,8 @@
 a) Создаем и называем необходимые VLAN на коммутаторе из таблицы 
 ![](https://github.com/iGORnetwork/VLAN-routing-between-virtual-local-networks/blob/main/image/Screenshot_7.png)
 ![](https://github.com/iGORnetwork/VLAN-routing-between-virtual-local-networks/blob/main/image/Screenshot_10.png)
+![](https://github.com/iGORnetwork/VLAN-routing-between-virtual-local-networks/blob/main/image/Screenshot_16.png)
+
 
 b) Настроем интерфейсы управления и шлюз по умолчанию используя информацию об IP-адресе в таблице адресации. 
 
@@ -33,6 +35,8 @@ b) Настроем интерфейсы управления и шлюз по �
 ![](https://github.com/iGORnetwork/VLAN-routing-between-virtual-local-networks/blob/main/image/Screenshot_9.png)
 
 c) Скроим неиспользуемые порты коммутатора VLAN Parking_Lot
+
+![](https://github.com/iGORnetwork/VLAN-routing-between-virtual-local-networks/blob/main/image/Screenshot_17.png)
 
 # S2
 a) Создаем и называем необходимые VLAN на коммутаторе из таблицы 
