@@ -38,4 +38,4 @@ b) Настроем интерфейсы управления и шлюз по �
 a) Создаем и называем необходимые VLAN на коммутаторе из таблицы 
 
 ![](https://github.com/iGORnetwork/VLAN-routing-between-virtual-local-networks/blob/main/image/Screenshot_11.png)
-
+![](https://github.com/iGORnetwork/VLAN-routing-between-virtual-local-networks/blob/main/image/Screenshot_12.png)
