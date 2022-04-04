@@ -24,3 +24,4 @@
 ## Создаем сети VLAN на каммутаторах 
 ### S1
 Создаем и называем необходимые VLAN на коммутаторе из таблицы 
+![](https://github.com/iGORnetwork/VLAN-routing-between-virtual-local-networks/blob/main/image/Screenshot_7.png)
