@@ -51,6 +51,7 @@ c) Скроим неиспользуемые порты коммутатора V
 
 # R1
 
+![](https://github.com/iGORnetwork/VLAN-routing-between-virtual-local-networks/blob/main/image/Screenshot_13.png)
 
 
 # Конфигурация магистрального канала стандарта 802.1Q между коммутаторами
