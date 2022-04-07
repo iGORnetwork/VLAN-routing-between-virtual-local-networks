@@ -50,7 +50,7 @@ c) Скроим неиспользуемые порты коммутатора V
 ![](https://github.com/iGORnetwork/VLAN-routing-between-virtual-local-networks/blob/main/image/Screenshot_10.png)
 
 # Конфигурация магистрального канала стандарта 802.1Q между коммутаторами и маршрутизаторо.
-## Настроем магистральные интерфейс F0/1 на коммутаторах S1 и S2.
+
 S1
 
 ![](https://github.com/iGORnetwork/VLAN-routing-between-virtual-local-networks/blob/main/image/Screenshot_14.png)
