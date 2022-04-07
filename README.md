@@ -24,38 +24,31 @@
 ## Создаем сети VLAN на каммутаторах 
 ### S1
 a) Создаем и называем необходимые VLAN на коммутаторе из таблицы 
-![](https://github.com/iGORnetwork/VLAN-routing-between-virtual-local-networks/blob/main/image/Screenshot_7.png)
-![](https://github.com/iGORnetwork/VLAN-routing-between-virtual-local-networks/blob/main/image/Screenshot_10.png)
-![](https://github.com/iGORnetwork/VLAN-routing-between-virtual-local-networks/blob/main/image/Screenshot_18.png)
-![](https://github.com/iGORnetwork/VLAN-routing-between-virtual-local-networks/blob/main/image/Screenshot_16.png)
-![](https://github.com/iGORnetwork/VLAN-routing-between-virtual-local-networks/blob/main/image/Screenshot_22.png)
+
 
 
 b) Настроем интерфейсы управления и шлюз по умолчанию используя информацию об IP-адресе в таблице адресации. 
 
-![](https://github.com/iGORnetwork/VLAN-routing-between-virtual-local-networks/blob/main/image/Screenshot_8.png)
-![](https://github.com/iGORnetwork/VLAN-routing-between-virtual-local-networks/blob/main/image/Screenshot_9.png)
+
 
 c) Скроим неиспользуемые порты коммутатора VLAN Parking_Lot
 
-![](https://github.com/iGORnetwork/VLAN-routing-between-virtual-local-networks/blob/main/image/Screenshot_17.png)
+
 
 # S2
 a) Создаем и называем необходимые VLAN на коммутаторе из таблицы 
 
-![](https://github.com/iGORnetwork/VLAN-routing-between-virtual-local-networks/blob/main/image/Screenshot_11.png)
-![](https://github.com/iGORnetwork/VLAN-routing-between-virtual-local-networks/blob/main/image/Screenshot_19.png)
-![](https://github.com/iGORnetwork/VLAN-routing-between-virtual-local-networks/blob/main/image/Screenshot_21.png)
+
 
 b) Настроем интерфейсы управления и шлюз по умолчанию используя информацию об IP-адресе в таблице адресации. 
 
-![](https://github.com/iGORnetwork/VLAN-routing-between-virtual-local-networks/blob/main/image/Screenshot_15.png)
 
-![](https://github.com/iGORnetwork/VLAN-routing-between-virtual-local-networks/blob/main/image/Screenshot_14.png)
+
+
 
 c) Скроим неиспользуемые порты коммутатора VLAN Parking_Lot
 
-![](https://github.com/iGORnetwork/VLAN-routing-between-virtual-local-networks/blob/main/image/Screenshot_20.png)
+
 
 # Конфигурация магистрального канала стандарта 802.1Q между коммутаторами
 ## Настроем магистральные интерфейс F0/1 на коммутаторах S1 и S2.
