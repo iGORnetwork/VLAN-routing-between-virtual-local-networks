@@ -63,6 +63,9 @@ R1
 
 ![](https://github.com/iGORnetwork/VLAN-routing-between-virtual-local-networks/blob/main/image/Screenshot_13.png)
 
+# Проверьте, работает ли маршрутизация между VLAN
+а) Отправим эхо-запрос с PC-A на шлюз по умолчанию.
+
 
 
 
