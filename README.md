@@ -47,7 +47,7 @@ b) Настроем интерфейсы управления и шлюз по �
 ![](https://github.com/iGORnetwork/VLAN-routing-between-virtual-local-networks/blob/main/image/Screenshot_12.png)
 
 c) Скроим неиспользуемые порты коммутатора VLAN Parking_Lot
-[](https://github.com/iGORnetwork/VLAN-routing-between-virtual-local-networks/blob/main/image/Screenshot_10.png)
+![](https://github.com/iGORnetwork/VLAN-routing-between-virtual-local-networks/blob/main/image/Screenshot_10.png)
 
 
 # Конфигурация магистрального канала стандарта 802.1Q между коммутаторами
