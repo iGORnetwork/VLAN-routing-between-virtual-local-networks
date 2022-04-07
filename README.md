@@ -39,8 +39,8 @@ c) Скроим неиспользуемые порты коммутатора V
 
 # S2
 a) Создаем и называем необходимые VLAN на коммутаторе из таблицы 
-
-
+![](https://github.com/iGORnetwork/VLAN-routing-between-virtual-local-networks/blob/main/image/Screenshot_10.png)
+![](https://github.com/iGORnetwork/VLAN-routing-between-virtual-local-networks/blob/main/image/Screenshot_11.png)
 
 b) Настроем интерфейсы управления и шлюз по умолчанию используя информацию об IP-адресе в таблице адресации. 
 
